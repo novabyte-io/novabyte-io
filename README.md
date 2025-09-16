@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Novabyte
 
-<!--
-**novabyte-io/novabyte-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-stack Developer (Node.js | React | NestJS | Microservices)**  
+💡 Passionate about building **scalable apps** with **clean architecture**.  
+🌐 Exploring Cloud, DevOps, and modern web technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** TypeScript, JavaScript, Java  
+- **Frontend:** React, Next.js, TailwindCSS  
+- **Backend:** Node.js, NestJS, Spring Boot  
+- **Databases:** MongoDB, PostgreSQL, Redis  
+- **DevOps:** Docker, GitHub Actions, Azure  
+
+---
+
+### 📌 Featured Projects
+- 🛒 **E-commerce Platform** – microservices-based, scalable architecture  
+- ✈️ **Travel Social** – social media + travel experiences platform  
+- 🍔 **Restaurant Website** – F&B order + dashboard management  
+
+---
+
+### 📫 Connect with me
+- 🌐 Website: [novabyte.io](https://github.com/novabyte-io)  
+- 💼 LinkedIn: [Your LinkedIn link]  
+- 📧 Email: vanduy.dec02@gmail.com
