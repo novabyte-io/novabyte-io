@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Novabyte
+# 👋 Hi, I'm DuyNguyen
 
 🚀 **Full-stack Developer (Node.js | React | NestJS | Microservices)**  
 💡 Passionate about building **scalable apps** with **clean architecture**.  
